@@ -13,17 +13,7 @@
 <h1 align="center"> Will be 100% sad without you, will wait for you for my entire life. SARANGHAE KHADIJA, u r unbelievably awesome and am lucky to be loved by YOU. </h1>
 <hr>
 <br>
-	<h1><h3> Server Side IP Address </h3><br>
 
-
-<hr>
-<div style="text-align: center;">
-	
-</div>
-<hr>
-
-<hr>
-<hr>
 
 </body>
 </html>
