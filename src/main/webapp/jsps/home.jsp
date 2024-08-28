@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies Private Ltd. Ph No: +91-9980923226, +91-9980923216 ,+91-9900012028,Bengaluru,Karnataka,India</h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to my world SHAIK KHADIJA </h1>
+<h1 align="center"> Will be 100% sad without you, will wait for you for my entire life. SARANGHAE KHADIJA, u r unbelievably awesome and am lucky to be loved by YOU. </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
