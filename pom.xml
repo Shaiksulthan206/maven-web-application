@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.200.252.115:8108/sulthan/repository/Maven-snapshot/</url>
+	      <url>http://13.200.252.115:8108/sulthan/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.200.252.115:8108/sulthan/repository/Maven/</url>
+	      <url>http://13.200.252.115:8108/sulthan/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
